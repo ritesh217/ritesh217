@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a  Final year computer engineering student with a strong interest in web technologies, system design, and emerging tech like AI and automation. Over time, I realized that real growth comes not just from learning tools, but from understanding how technology can simplify processes, improve efficiency, and deliver meaningful impact.<br><br>Through GPRM, I work on designing and developing modern web applications, full-stack projects, and tech solutions that balance clean design with solid functionality. I focus on writing maintainable code, following industry best practices, and continuously improving my skills to stay relevant in a fast-changing tech world.<br><br>This platform represents my journey, my projects, and my mindset: learning by building, improving through feedback, and aiming for solutions that are simple, scalable, and effective.<br><br>Whether it’s a personal project, a collaborative idea, or a real-world problem to solve, GPRM stands for growth, precision, and real-world impact.
+I am a final-year computer engineering student with a strong interest in web technologies, system design, cybersecurity, and emerging tech like AI, automation, and low-code/no-code platforms. Over time, I’ve realized that real growth comes not just from learning tools, but from understanding how technology can simplify processes, improve efficiency, and create meaningful impact.
+
+I work on designing and developing modern web applications, full-stack projects, and tech solutions that balance clean design with solid functionality. Alongside traditional development, I enjoy vibe coding, experimenting, rapid prototyping, and using low-code or no-code tools where they make sense to build faster and smarter solutions.
+
+I focus on writing maintainable code, following industry best practices, and strengthening my understanding of security, scalability, and system reliability. Continuous learning and adapting to new technologies are core parts of how I grow as an engineer.
+
+This platform represents my journey, my projects, and my mindset: learning by building, improving through feedback, and aiming for solutions that are simple, secure, scalable, and effective.
 
 
 ## 🌐 Socials:
